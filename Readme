@@ -1,0 +1,13 @@
+A simple temperature probe.
+
+Hardware requirements:
+TTGO T-display (ESP32 variant)
+AD8495 (Thermistor amplifier)
+
+Instructions:
+Load both .py files on a TTGO T-display
+
+connect Pin(36) from to output of AD8495
+
+
+
